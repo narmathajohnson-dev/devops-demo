@@ -8,7 +8,7 @@ class DevopsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Test - DONE")
+		System.out.println("Test - DONE");
 	}
 
 }
